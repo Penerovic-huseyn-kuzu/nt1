@@ -47,6 +47,7 @@ namespace BisikletUygulama
             b1.VistesDegistir(2);
             b1.BilgileriYaz();
            
+            console.writeline();
         }
     }
 }
