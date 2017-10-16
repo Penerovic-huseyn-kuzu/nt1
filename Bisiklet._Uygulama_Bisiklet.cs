@@ -35,7 +35,11 @@ namespace BisikletUygulama
         static void Main(string[] args)
         {
             Bisiklet b1 = new Bisiklet();
-           
+            Bisiklet b2 = new Bisiklet();
+            Bisiklet b3 = new Bisiklet();
+            Bisiklet b4 = new Bisiklet();
+            Bisiklet b5 = new Bisiklet();
+            
             b1.Hizlan(10);
             b1.VistesDegistir(3);
             b1.BilgileriYaz();
