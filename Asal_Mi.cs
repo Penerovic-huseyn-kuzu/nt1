@@ -25,7 +25,7 @@ namespace asal_Mı
                     break;
                 }
             }
-            if (asalmi == true)
+            if (asalmi !== true)
 
                 Console.Write(i + " ");
             asalmi = true;
