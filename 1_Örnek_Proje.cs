@@ -1,7 +1,7 @@
 ﻿
       using System; 
 
-namespace omer{
+namespace huseyn_kuzu{
 
    class BirinciOrnek{
 
